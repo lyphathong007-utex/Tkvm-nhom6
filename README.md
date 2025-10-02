@@ -1,5 +1,3 @@
 # tkvm-nhom6
-Bài tập nhóm <br> 
-Họ và tên: Lý Hồng Phát 
-Mssv : 25161173 
-Giới thiệu : em là thành viên nhóm 6 , tình trạng độc thân 
+Bài tập nhóm tuần 4 <br>
+Link repo nhóm : https://github.com/lyphathong007-utex/Tkvm-nhom6.git
